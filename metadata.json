@@ -1,0 +1,7 @@
+{
+  "name": "VoxAI - Universal AI Calling Agent",
+  "description": "A professional AI-integrated voice agent for handling inbound and outbound organizational calls using real-time Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
